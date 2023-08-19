@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](result.png)
+![screenshot](assets/result.png)
 
 Coding this page with HTML and CSS brings me closer to understanding some important CSS concepts, such as FlexBox usage and media queries.
 
