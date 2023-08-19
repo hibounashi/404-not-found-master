@@ -57,6 +57,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [COMING SOON](https://{your-web-site-link})
-- GitHub [@hibounashi](https://{github.com/hibounashi})
+- GitHub [@hibounashi](https://github.com/hibounashi)
 
 
