@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/hibounashi/404-not-found-master/blob/main/main.css">
+    <a href="https://github.com/hibounashi/404-not-found-master/blob/main/main.html">
       Solution
     </a>
     <span> | </span>
