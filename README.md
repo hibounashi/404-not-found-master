@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://four04-not-found-page.onrender.com">
+    <a href="https://page-four.static.app">
       Demo
     </a>
     <span> | </span>
